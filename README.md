@@ -3,6 +3,7 @@ Simple program to solve spiral galaxy puzzles from the command line
 The program requires you to give the board dimensions and galaxy centres
 For example:
 
+<pre><code>
 $ ./spiral_galaxies --help
 
 spiral_galaxies [options] > result (output always to std::out)
@@ -33,4 +34,4 @@ Solution found!
 |   |       |   |   O   |   |  
 +---+---+---+---+---+---+---+  
 Elapsed time: 160 us
-
+</code></pre>
